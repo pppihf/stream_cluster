@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- encoding:utf-8 -*-
 import time
 import argparse	 # 命令行解析的标准模块，可以让我们直接在命令行中就可以向程序中传入参数并让程序运行
 import numpy as np
